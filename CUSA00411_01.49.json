@@ -1,7 +1,7 @@
 {
   "name": "Grand Theft Auto V 侠盗猎车手5",
   "id": "CUSA00411",
-  "version": "01.49",
+  "version": "01.57",
   "process": "eboot.bin",
   "mods": [
     {
@@ -251,6 +251,6 @@
     }
   ],
   "credits": [
-    "k0s0ng & Rizla & FLiNG"
+    "tylxrrrr"
   ]
 }
